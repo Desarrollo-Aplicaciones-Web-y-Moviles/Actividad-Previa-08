@@ -18,10 +18,11 @@ Para esta actividad, haga una captura de pantalla del resultado de la ejecución
 
 ## Resultados
 
-<img width="184" alt="image" src="https://github.com/user-attachments/assets/cb2ab5d9-a13e-4fae-b777-99f03c94be48">
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/462ddaee-8936-4737-8ae1-5a8456093af8">
+
 
 
 
 
 ## Codigo
--  [Ejercicio 5](https://github.com/Desarrollo-Aplicaciones-Web-y-Moviles/Actividad-Previa-07/tree/main/C03E07)
+-  [Ejercicio 5](https://github.com/Desarrollo-Aplicaciones-Web-y-Moviles/Actividad-Previa-08/tree/main/ActividadReact)
